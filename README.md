@@ -25,47 +25,39 @@ Este repositorio será usado por los integrantes del **Grupo 15** a lo largo del
 ```
 2025_ICS_4K3_G15
 ├── Apuntes de Clase
-│   └── ICS_AC_<NúmeroSemana>_<Título>_<Categoria>_<Apellido>.[pdf|png]
 │
 ├── Bibliografía
 │   └── U<NúmeroDeUnidad>-<Tema>
-│       └── ICS_BIB_<Título>.pdf
 │
 ├── Material de Cátedra
 │   ├── Filminas
-│   │   └── ICS_FILM_U<NúmeroDeUnidad>_<Título>.pdf
 │   ├── Guias Prácticas
-│   │   └── ICS_GP_<Título>.pdf
 │   └── Planificación
-│       └── ICS_PL_<Título>.[pdf|xlsx]
 │
 ├── Plantillas
-│   └── ICS_Template_<Nombre>.[docx|xlsx]
 │
 ├── Trabajos
 │   ├── De investigación
-│   │   └── ICS_TI_<Nombre>_2025.pdf
 │   ├── Evaluables
-│   │   └── ICS_TE_<NúmeroDeTE>_<Título>.pdf
 │   └── No evaluables
-│       └── ICS_TNE_<CasoNúmero>_<Título>.[pdf|xlsx]
 ```
 
 ---
 
 ## 📑 Ítems de Configuración y Reglas de Nombrado
 
-| 📌 Ítem             | 📝 Regla de Nombrado                                              | 📁 Ubicación                                              |
-| ------------------- | ----------------------------------------------------------------- | --------------------------------------------------------- |
-| 🔍 De investigación | `ICS_TI_<Nombre>_2025.pdf`                                        | `2025_ICS_4K3_G15\Trabajos\De investigación\`             |
-| 📄 No evaluables    | `ICS_TNE_<Caso Número>_<Título>.[pdf/xslx]`                       | `2025_ICS_4K3_G15\Trabajos\No evaluables\`                |
-| 📝 Evaluables       | `ICS_TE_<NúmeroDeTE>_<Título>.pdf`                                | `2025_ICS_4K3_G15\Trabajos\Evaluables\`                   |
-| 📑 Plantillas       | `ICS_Template_<Nombre>.[docx/xslx]`                               | `2025_ICS_4K3_G15\Plantillas\`                            |
-| 🎥 Filminas         | `ICS_FILM_U<NúmeroDeUnidad>_<Título>.pdf`                         | `2025_ICS_4K3_G15\Material de Cátedra\Filminas\`          |
-| 📚 Bibliografía     | `ICS_BIB_<Título>.pdf`                                            | `2025_ICS_4K3_G15\Bibliografía\U<NúmeroDeUnidad>-<Tema>\` |
-| ✍️ Apuntes de Clase | `ICS_AC_<NúmeroSemana>_<Título>_<Categoria>_<Apellido>.[pdf/png]` | `2025_ICS_4K3_G15\Apuntes de Clase\`                      |
-| 📘 Guías Prácticas  | `ICS_GP_<Título>.pdf`                                             | `2025_ICS_4K3_G15\Material de Cátedra\Guias Prácticas\`   |
-| 📅 Planificación    | `ICS_PL_<Título>.[pdf/xslx]`                                      | `2025_ICS_4K3_G15\Material de Cátedra\Planificación\`     |
+| 📌 Ítem             | 📝 Regla de Nombrado                                              | 📁 Ubicación                                              | 🏷️ Clasificación |
+| ------------------- | ----------------------------------------------------------------- | --------------------------------------------------------- | ----------------- |
+| 🔍 De investigación | `ICS_TI_<Nombre>_2025.pdf`                                        | `2025_ICS_4K3_G15\Trabajos\De investigación\`             | Soporte           |
+| 📄 No evaluables    | `ICS_TNE_<Caso Número>_<Título>.[pdf/xslx]`                       | `2025_ICS_4K3_G15\Trabajos\No evaluables\`                | Técnica           |
+| 📝 Evaluables       | `ICS_TE_<NúmeroDeTE>_<Título>.pdf`                                | `2025_ICS_4K3_G15\Trabajos\Evaluables\`                   | Técnica           |
+| 📑 Plantillas       | `ICS_Template_<Nombre>.[docx/xslx]`                               | `2025_ICS_4K3_G15\Plantillas\`                            | Soporte           |
+| 🎥 Filminas         | `ICS_FILM_U<NúmeroDeUnidad>_<Título>.pdf`                         | `2025_ICS_4K3_G15\Material de Cátedra\Filminas\`          | Soporte           |
+| 📚 Bibliografía     | `ICS_BIB_<Título>.pdf`                                            | `2025_ICS_4K3_G15\Bibliografía\U<NúmeroDeUnidad>-<Tema>\` | Soporte           |
+| ✍️ Apuntes de Clase | `ICS_AC_<NúmeroSemana>_<Título>_<Categoria>_<Apellido>.[pdf/png]` | `2025_ICS_4K3_G15\Apuntes de Clase\`                      | Soporte           |
+| 📘 Guías Prácticas  | `ICS_GP_<Título>.pdf`                                             | `2025_ICS_4K3_G15\Material de Cátedra\Guias Prácticas\`   | Técnica           |
+| 📅 Planificación    | `ICS_PL_<Título>.[pdf/xslx]`                                      | `2025_ICS_4K3_G15\Material de Cátedra\Planificación\`     | Gestión           |
+
 
 ---
 
